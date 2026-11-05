@@ -4,7 +4,7 @@ Student: David Yin
 
 ## Demo Video
 
-REPLACE_WITH_YOUTUBE_LINK
+[YouTube Demo Link](https://youtu.be/NuG9oFJU5Aw)
 
 ## Service Repositories
 
